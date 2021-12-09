@@ -3,8 +3,8 @@
 
 Fully functional MinePicker built with java
 
-![](preview.gif)
 
+<img src="/preview.gif" width="600" height="350"/>
 
 
 
